@@ -37,3 +37,8 @@ Envie o projeto para a branch `main` ou `master`, abra **Actions**, aguarde a ex
 
 ## Identificação
 Aluno #19 • PPDM2 • 4º Semestre • Professor Adriano Rosa Mazetto
+
+
+<img width="990" height="656" alt="Captura de tela 2026-11-13 112258" src="https://github.com/user-attachments/assets/5b221c51-ab4f-4d24-9dab-39b29a16d25a" />
+<img width="990" height="657" alt="Captura de tela 2026-11-13 112315" src="https://github.com/user-attachments/assets/726efe8c-7726-4082-8782-71e18903053e" />
+
